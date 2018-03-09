@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  report_date: 2018-03-09
+  report_number: 1
+  address: MyString
+  details: MyString
+  spare_parts: MyString
+  note: MyString
+  attendant: MyString
+
+two:
+  report_date: 2018-03-09
+  report_number: 1
+  address: MyString
+  details: MyString
+  spare_parts: MyString
+  note: MyString
+  attendant: MyString

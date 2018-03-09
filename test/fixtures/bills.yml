@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bill_number: 1
+  bill_date: 2018-03-09
+  description: MyString
+  quantity: 1
+  price: 1.5
+  neto_price: 1.5
+  iva: 1.5
+  total_price: 1.5
+
+two:
+  bill_number: 1
+  bill_date: 2018-03-09
+  description: MyString
+  quantity: 1
+  price: 1.5
+  neto_price: 1.5
+  iva: 1.5
+  total_price: 1.5

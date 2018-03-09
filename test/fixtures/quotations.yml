@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quotation_number: 1
+  quotation_date: 2018-03-09
+  report_number: 1
+  details: MyString
+  quantity: 1
+  unity: 1
+  unity_price: 1.5
+  total_neto: 1.5
+  total_price: 1.5
+  iva: 1.5
+
+two:
+  quotation_number: 1
+  quotation_date: 2018-03-09
+  report_number: 1
+  details: MyString
+  quantity: 1
+  unity: 1
+  unity_price: 1.5
+  total_neto: 1.5
+  total_price: 1.5
+  iva: 1.5

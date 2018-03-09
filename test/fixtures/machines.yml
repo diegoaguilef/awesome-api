@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  brand: MyString
+  year: 1
+  capacity: 1.5
+  engine: MyString
+  engine_model: MyString
+
+two:
+  model: MyString
+  brand: MyString
+  year: 1
+  capacity: 1.5
+  engine: MyString
+  engine_model: MyString

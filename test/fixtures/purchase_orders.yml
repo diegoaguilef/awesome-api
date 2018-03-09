@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: 1
+  article: 1
+  quantity: 1
+  unity_price: 1.5
+  total_price: 1.5
+  comments: MyString
+  price_neto: 1.5
+  price_total: 1.5
+  order_date: 2018-03-09
+
+two:
+  code: 1
+  article: 1
+  quantity: 1
+  unity_price: 1.5
+  total_price: 1.5
+  comments: MyString
+  price_neto: 1.5
+  price_total: 1.5
+  order_date: 2018-03-09
